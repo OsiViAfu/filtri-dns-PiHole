@@ -3,6 +3,7 @@
 # Updated on: 29/10/2021
 
 
+0.0.0.0 blockchainamministrazione.net
 0.0.0.0 share.notizie.it
 0.0.0.0 178.32.140.64
 0.0.0.0 24network.it
