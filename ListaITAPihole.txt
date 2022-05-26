@@ -1,6 +1,6 @@
 # hosts file  Italian sites 
 # ABSOLUTELY NO GUARANTEES PROVIDED.
-# Updated on: 29/10/2021
+# Updated on: 26/05/2022
 
 0.0.0.0 cybercrime888.com
 0.0.0.0 blockchainamministrazione.net
@@ -406,3 +406,97 @@
 0.0.0.0 50.7.128.74
 0.0.0.0 adk2x.com
 0.0.0.0 pwapi.washingtonpost.com
+invmb.eu
+saxo-fx24.com  
+my.saxo-fx24.com 
+webtrader.saxo-fx24.com
+fundiza.site
+idealinvestfx.com  
+accounts.idealinvestfx.com
+europeanstock.eu  
+client.europeanstock.eu
+gbtrade24.co.uk  
+gbtrade24.net
+dakkengroup.com
+webtrader.dakkengroup.cc
+coinevo.co
+finexstock.com  
+platform.finexstock.com
+saxo-stock.com  
+my.saxo-stock.com
+webtrader.saxo-stock.com
+4capital.io
+global-investousfx.com  
+client.global-investousfx.com
+tradon.pro  
+webtrader.tradon.cc
+unionsmarket.group
+tradebaionics.com
+infinity4x.io
+galantrade.com
+globecfd.com
+invmb.com
+gladiolustox.com  
+clientzone.gladiolustox.com
+4x-trade.net 
+client.tradingcabinet.com
+profitmk.com  
+user.profitmk.com
+my.tradingroom26.com 
+my.tradingroomstar.com
+trade.tradingroomstar.com
+investagricol.com
+5markets.co
+webtrader.5markets.cc
+fastinvest.com
+scesi.com
+yosemite-ep.com
+futureassets.biz
+alphaforex.eu
+client.alphaforex.eu
+xtbinvesting.com
+client.xtbinvesting.com
+morganfxcapital.com
+my.morganfxcapital.com
+bitaliana.com
+tradingbloom.com
+client.tradingbloom.com
+fusionfx24.com
+my.fusionfx24.com
+cryptoproexpert.com
+my.cryptoproexpert.com
+newfx.trading
+newfx.tradingweb.io
+octa-marketd.com
+cfd.octa-marketd.com
+sierrainvest.io
+battletrade.pro
+infinity4x.com
+empiretrading.net
+live.empiretrading.net
+equalityfin.io
+client.equalityfin.io
+fnincloud.live
+fincloud.center
+webtrader.fincloud.live
+lionfxm.com
+portal.lionfxm.com
+mbinv.eu
+wbiinvestltd.io
+client.wbiinvestltd.io
+webtrader.wbiinvestltd.io
+365investimenti.com
+365-investments.com
+mtp.expert
+my.mtp.expert
+globalx-trade.com
+client.globalx-trade.com
+empirefxm.com
+my.empirefxm.com
+tradingtech.io
+aceinvesting.io
+cornerfxtrade24.co
+client.cornerfxtrade24.co
+cryptoifx.com
+alphatradeplus.com
+client.alphatradeplus.com
