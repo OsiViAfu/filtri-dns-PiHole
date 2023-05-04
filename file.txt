@@ -1,1 +1,0 @@
-ContentFile(path="file.txt") file.txt
